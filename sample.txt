@@ -1,1 +1,3 @@
 git txt file test version2
+
+복제본
