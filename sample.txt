@@ -1,3 +1,4 @@
 git txt file test version2
 
 복제본
+튜토리얼 2에서 작업
